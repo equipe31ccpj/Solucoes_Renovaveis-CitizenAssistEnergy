@@ -61,14 +61,14 @@ Para atender à mesma necessidade energética mensal (`142,65 kWh/mês`), foram 
 
 ---
 
-## 🧪 5. Testes com Usuários e Ajustes Realizados
+##  5. Testes com Usuários e Ajustes Realizados
 Foram realizados testes de compreensão e utilidade das orientações geradas pelo assistente com participantes representando o público da terceira idade. Nenhum dado pessoal sensível foi exposto.
 
 | Participante | Situação Testada | Comentário Recebido | Ajuste Realizado |
 | :--- | :--- | :--- | :--- |
-| **Participante 1** *(Perfil: 68 anos)* | Consulta sobre economia sem saber o consumo em kWh (`duvida="economia"`). | *[Preencher com o comentário real do teste]* | *[Ex: Destacado o valor em Reais (R$) logo no início da frase]* |
-| **Participante 2** *(Perfil: 72 anos)* | Consulta sobre energia solar em casa com ar-condicionado (`duvida="solar"`). | *[Preencher com o comentário real do teste]* | *[Ex: Explicado que energia solar compartilhada não exige obra]* |
-| **Participante 3** *(Perfil: 65 anos)* | Interpretação do alerta visual de consumo moderado/alto (`duvida="geral"`). | *[Preencher com o comentário real do teste]* | *[Ex: Mantida a relação direta entre as cores do semáforo e o texto]* |
+| **Participante 1** *(Perfil: 68 anos)* | Consulta sobre economia sem saber o consumo em kWh (`duvida="economia"`). | *[Preencher xxcom o comentário real do teste]* | *[Ex: Destacado o valor em Reais (R$) logo no início da frase]* |
+| **Participante 2** *(Perfil: )* | Consulta sobre(``). | *[Preencher com o comentário real do teste]* | *[Ex: Explicado que energiaxx solar compartilhada não exige obra]* |
+| **Participante 3** *(Perfil: 65 anos)* | Interpretação do alerta visual de consumo moderado/alto (`duvida="geral"`). | *[Preencher xxcom o comentário real do teste]* | *[Ex: Mantida a relação direta entre as cores do semáforo e o texto]* |
 
 ---
 

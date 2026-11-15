@@ -1,6 +1,6 @@
-# Solucoes-Renovaveis-CitizenAssistAI
+# Solucoes-Renovaveis-CitizenTech
 
-# Citizen Assist AI — Soluções em Energias Renováveis e Sustentáveis (SERS)
+# Citizen Assist Tech — Soluções em Energias Renováveis e Sustentáveis (SERS)
 
 > Módulo de análise de consumo energético, comparação de alternativas sustentáveis e orientação inteligente voltado para a **Terceira Idade**, integrado ao projeto **Citizen Assist AI**.
 

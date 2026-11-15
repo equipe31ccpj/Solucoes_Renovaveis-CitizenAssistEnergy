@@ -16,7 +16,6 @@
 ## Links do Projeto
 * **Notebook de Análise (Google Colab):** `https://colab.research.google.com/drive/1-OkzWYJNV690trZIeCEoc5e9_gNxFoti?usp=sharing`
 * **Protótipo Visual:** `https://www.tinkercad.com/things/dxc7xNIZYw0-copy-of-prototipo-smart-energy?sharecode=3VK21pKX52YYHgpRcTZEmoF4Xtsc2W1A8_gRIlsgOXg`
-* **Vídeo Técnico de Demonstração (YouTube):** `[Inserir Link Não Listado do YouTube — Máx. 3 min]`
 
 ---
 

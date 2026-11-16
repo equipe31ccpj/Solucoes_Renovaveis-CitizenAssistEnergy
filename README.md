@@ -21,7 +21,7 @@
 
 ## 1. Contexto e Público-Alvo
 * **Público-Alvo:** Pessoas da terceira idade (residências de 1 a 2 moradores).
-* **Necessidade Energética:** Idosos passam mais tempo em casa, o que torna o orçamento doméstico sensível a variações na conta de luz — especialmente em dias quentes com uso de ar-condicionado e durante o horário de pico (18h às 21h). Além disso, termos técnicos como *kWh* e *potência* costumam dificultar o controle do gasto mensal.
+* **Necessidade Energética:** Idosos passam mais tempo em casa, o que torna o orçamento doméstico sensível a variações na conta de luz — especialmente em dias quentes com uso de aparelhos de alta potência como ar-condicionado e durante o horário de pico (18h às 21h). Além disso, termos técnicos como *kWh* e *potência* costumam dificultar o controle do gasto mensal.
 * **Como a Solução Contribui:** O **Citizen Assist AI** traduz dados técnicos de consumo em alertas visuais simples (integrados ao conceito de semáforo Verde/Amarelo/Vermelho do protótipo Arduino/Tinkercad) e recomendações financeiras e ambientais acessíveis.
 
 ---

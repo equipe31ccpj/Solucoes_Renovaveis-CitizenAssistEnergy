@@ -69,7 +69,7 @@ Para orientar o uso de aparelhos, aplicamos a relação $E = P \times \Delta t$:
 ---
 
 ## 5. Como Executar o Código
-1. Baixe o arquivo do notebook (`Citizen_Assist_AI_Energia.ipynb`) e o dataset (`household_energy_consumption.csv`) deste repositório (ou abra diretamente no Google Colab).
+1. Baixe o arquivo do notebook (`Citizen_Assist_Energy.ipynb`) e o dataset (`household_energy_consumption.csv`) deste repositório (ou abra diretamente no Google Colab).
 2. Certifique-se de que as bibliotecas `pandas`, `numpy`, `matplotlib` e `seaborn` estejam instaladas.
 3. Execute as células sequencialmente para gerar as estatísticas, os gráficos e testar a função interativa `citizen_assist_energia()`.
 
